@@ -1,2 +1,0 @@
-checking the notepad
-adding to checck the staged diff
