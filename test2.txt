@@ -1,2 +1,3 @@
 checking the notepad
-adding to checck the staged diff
+adding to checck the staged dif
+adf
